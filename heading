@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<h3>This is a Heading</h3>
-<p>This is a paragraph.</p>
+<h3 style="background-color:Tomato;">This is a Heading</h3>
+<h1 style="background-color:Violet;">This is a paragraph</h1>
 
 </body>
 </html>
